@@ -8,7 +8,7 @@
 
 ### Projects
 
-- [SignLens](https://signlens.streamit.app): A project for Sign Language Videos Classification using MediaPipe and Deep Learning. 
+- [SignLens](https://signlens.streamlit.app): A project for Sign Language Videos Classification using MediaPipe and Deep Learning. 
   - Repo: [GitHub](https://github.com/benoitfrisque/signlens)
 
 ### Let's Connect!

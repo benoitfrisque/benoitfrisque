@@ -71,10 +71,3 @@
   </a>
 </p>
 </details>
-
-## Contributions & Stats 📊
-
-  <img width=300 align="left" src="https://github-readme-stats.vercel.app/api?username=benoitfrisque&show_icons=true&locale=en" alt="benoitfrisque" />
-  <img height=130 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=benoitfrisque&show_icons=true&locale=en&layout=compact" alt="benoitfrisque" />
-  <img width=300 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=benoitfrisque&" alt="benoitfrisque" />
-</details>

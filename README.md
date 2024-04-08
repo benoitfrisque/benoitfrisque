@@ -15,7 +15,11 @@
   - We implemented an API deployed on Google Cloud Registry, and built a [user-friendly interface](https://signlens.streamlit.app/) using Streamlit. This interface includes features such as video translation, a learning platform, and an engaging practice game
   - Explore the [project repository](https://github.com/benoitfrisque/signlens) for further details
  
-- 🏆 [Hackathon](https://www.hackathon.euranova.eu/): Secured 2nd place in an intensive development competition organized by Euranova, focused on "Reinforcement Learning in the Energy Sector".
+- 🏆 2nd place at NovHack 2024:
+  -  Secured 2nd place in a 2-day Data Science [Hackathon organized by Euranova](https://www.hackathon.euranova.eu/), focused on "Reinforcement Learning in the Energy Sector".
+  -  The objective was to develop an Active Network Management (ANM) model for electricity distribution.
+  -  Using an A2C model (Synchronous Advantage Actor Critic) with MultiInputPolicy, we strategized actions concerning both active (P) and reactive (Q) power injection for individual renewable generators and distributed energy storage units. The primary objective was to minimize energy wastage and prevent breaches of network constraints, such as cable capacity limits.
+
 
 ## Let's Connect!
 <a href="https://linkedin.com/in/bfrisque" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="bfrisque" height="50"  /></a>

@@ -8,7 +8,7 @@
 
 ## Technical Highlights
 
-- 📽️ [SignLens](https://signlens.streamlit.app)
+- 📽️ [SignLens](https://signlens.streamlit.app) - Sign Language Translation powered by AI
   - For our final project of Le Wagon BootCamp, we created an application to translate sign language videos into written words.
   - We built a recurrent neural network (RNN) model on a dataset of 94k preprocessed videos using Mediapipe
   - The model's accuracy reached 61.3% out of 250 different signs, with a test set size of 20%

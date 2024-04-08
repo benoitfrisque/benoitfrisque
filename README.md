@@ -11,14 +11,14 @@
 - 📽️ [SignLens](https://signlens.streamlit.app)
   - For our final project of Le Wagon BootCamp, we created an application to translate sign language videos into written words.
   - We built a recurrent neural network (RNN) model on a dataset of 94k preprocessed videos using Mediapipe
-  - The model's accuracy reached 61.3% out of 250 different signs, with a test set size of 20%.
+  - The model's accuracy reached 61.3% out of 250 different signs, with a test set size of 20%
   - We implemented an API deployed on Google Cloud Registry, and built a [user-friendly interface](https://signlens.streamlit.app/) using Streamlit. This interface includes features such as video translation, a learning platform, and an engaging practice game
   - Explore the [project repository](https://github.com/benoitfrisque/signlens) for further details
  
 - 🏆 2nd place at NovHack 2024
   -  Secured 2nd place in a 2-day Data Science [Hackathon organized by Euranova](https://www.hackathon.euranova.eu/), focused on "Reinforcement Learning in the Energy Sector".
-  -  The objective was to develop an Active Network Management (ANM) model for electricity distribution.
-  -  Using an A2C model (Synchronous Advantage Actor Critic) with MultiInputPolicy, we strategized actions concerning both active (P) and reactive (Q) power injection for individual renewable generators and distributed energy storage units. The primary objective was to minimize energy wastage and prevent breaches of network constraints, such as cable capacity limits.
+  -  The objective was to develop an Active Network Management (ANM) model for electricity distribution
+  -  Using an A2C model (Synchronous Advantage Actor Critic) with MultiInputPolicy, we strategized actions concerning both active (P) and reactive (Q) power injection for individual renewable generators and distributed energy storage units. The primary objective was to minimize energy wastage and prevent breaches of network constraints, such as cable capacity limits
 
 
 ## Let's Connect!

@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Benoît Frisque <img src="https://komarev.com/ghpvc/?username=benoitfrisque&label=Profile%20views&color=0e75b6&style=flat" alt="benoitfrisque" align="right" />
 
-## Data Scientist based in Geneva, Switzerland 🌍
+## Data Scientist based in Brussels, Belgium 🌍
 
 - 🧠 Recently completed a bootcamp in Data Science and AI at Le Wagon
 - 📜 Certified Azure Data Scientist DP-100

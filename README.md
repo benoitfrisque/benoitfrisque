@@ -3,17 +3,25 @@
 ## Data Scientist based in Geneva, Switzerland 🌍
 
 - 🧠 Recently completed a bootcamp in Data Science and AI at Le Wagon
+- 📜 Certified Azure Data Scientist DP-100
 - 🎓 Background in Mechanical Engineering
-- 💼 Experience in Data Analytics and Dashboards as Production Manager in a health tech startup
+- 💼 Experience in Data Analytics and Dashboards as Production Manager in a MedTech startup
 
 ## Technical Highlights
 
-- 📽️ [SignLens](https://signlens.streamlit.app) - Sign Language Translation powered by AI
+- 📽️ [**SignLens**](https://signlens.streamlit.app) - Sign Language Translation powered by AI
   - For our final project of Le Wagon BootCamp, we created an application to translate sign language videos into written words
   - We built a recurrent neural network (RNN) model on a dataset of 94k preprocessed videos using Mediapipe
   - The model's accuracy reached 61.3% out of 250 different signs, with a test set size of 20%
   - We implemented an API deployed on Google Cloud Platform and built a [user-friendly interface](https://signlens.streamlit.app/) using Streamlit. This interface includes features such as video translation, a learning platform, and an engaging practice game
   - Explore the project repositories  for further details: [deep learning repo](https://github.com/benoitfrisque/signlens) and [web interface repo](https://github.com/benoitfrisque/signlens_app)
+
+- Dashboards:
+  - [**Geneva Transport Analysis**](https://github.com/benoitfrisque/geneva_transport_analysis): A dashboard analyzing public transportation data in Geneva using open datasets.  
+  **Technologies**: Plotly, Jupyter-flex
+
+  - [**Lichens Go (Ongoing)**](https://github.com/dataforgoodfr/lichensgo/): A dashboard tracking pollution in urban environments, based on lichen observations on trees.  
+  **Technologies**: Plotly, Dash, Dash Mantine Components
  
 - 🏆 2nd place at NovHack 2024
   -  Secured 2nd place in a 2-day Data Science [Hackathon organized by Euranova](https://www.hackathon.euranova.eu/), focused on "Reinforcement Learning in the Energy Sector"
@@ -47,6 +55,9 @@
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png?20220718173326" alt="plotly" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40"/>
